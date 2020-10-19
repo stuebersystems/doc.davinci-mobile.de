@@ -85,9 +85,11 @@ Kennwort        | `Kind1pwd,Kind2pwd`
 
     Bitte achten Sie darauf bei der Aufzählung der Benutzernamen oder Kennworte nach dem Komma keine Leerzeichen einzufügen!
 
-### Demomodus erneut aktivieren   
+### Demomodus erneut aktivieren 
 
-Um den Demomodus erneut zu aktiveren, müssen Sie zunächst unter `Demo Modus` den Wert von `Inaktiv` auf
+Um den Demomodus erneut zu aktiveren, müssen Sie zunächst unter `Demo Modus` den Wert von `Inaktiv` auf `Aktiv` stellen
+
+Bitte geben Sie im Feld DAVINIC SERVER **demo-davinci.stueber.de** ein
 
 * `Lehrer Demo`: Beispieleinstellung für eine Lehrerkennung
 

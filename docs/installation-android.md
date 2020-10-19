@@ -2,7 +2,7 @@
 
 !!! warning "Wichtig!"
 
-    Bitte beachten Sie unsere [Systemvoraussetungen](https://doc.davinci6.stueber.de/requirements.html)!
+    Bitte beachten Sie unsere [Systemvoraussetungen](https://doc.davinci6.stueber.de/00.allgemein/requirements/)!
 
 Um die kostenlose App DAVINCI-MOBILE unter Android zu installieren, müssen Sie auf Ihrem SmartPhone oder Tablet den `Google Playstore` starten.
 
