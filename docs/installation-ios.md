@@ -4,7 +4,7 @@ Um die kostenlose App DAVINCI-MOBILE unter iOS zu installieren, müssen Sie auf 
 
 !!! warning "Wichtig!"
 
-    Bitte beachten Sie unsere [Systemvoraussetungen](https://doc.davinci6.stueber.de/00.allgemein/requirements/)!
+    Bitte beachten Sie unsere [Systemvoraussetzungen](https://doc.davinci6.stueber.de/00.allgemein/requirements/)!
 
 ![App Store](/assets/images/appapplestore1.png)
 
