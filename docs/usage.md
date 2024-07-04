@@ -1,8 +1,8 @@
 # So funktioniert die App
 
-In Abhängigkeit von den Rechten Ihrer Kennung haben Sie unterschiedliche Navigationsmöglichkeiten in  DAVINCI-MOBILE. 
+In Abhängigkeit von den Rechten Ihrer Kennung haben Sie unterschiedliche Navigationsmöglichkeiten in  DaVinci-Mobile. 
 
-Nr.	| DAVINCI-MOBILE Ansichten
+Nr.	| DaVinci-Mobile Ansichten
 --- | -------------------------
 1	| Eigener Stundenplan
 2	| Andere Stundenpläne
@@ -13,7 +13,7 @@ Nr.	| DAVINCI-MOBILE Ansichten
 
 ## Die Schaltflächen
 
-Hier finden Sie eine Übersicht der verwendeten Schältflächen in DAVINCI-MOBILE
+Hier finden Sie eine Übersicht der verwendeten Schältflächen in DaVinci-Mobile
 
 Schaltfläche                                 | Bedeutung
 -------------------------------------------- | ---------
@@ -36,9 +36,9 @@ Mein Plan                                    | Mein Stundenplan
 
 <img src="/assets/images/appiconrefresh.svg"/>
 
-Um die Daten von DAVINCI-MOBILE nach dem erstmaligen Starten zu aktualisieren, müssen Sie die Schaltfläche  <img src="/assets/images/appiconrefresh.svg" alt="Aktualisieren Icon" height="14" width="14"/> wählen.
+Um die Daten von DaVinci-Mobile nach dem erstmaligen Starten zu aktualisieren, müssen Sie die Schaltfläche  <img src="/assets/images/appiconrefresh.svg" alt="Aktualisieren Icon" height="14" width="14"/> wählen.
 
-Sollten Sie keine Internetverbindung haben oder der Server der Schule/Bildungsintitution inaktiv sein, so verwendet DAVINCI-MOBILE immer die zuletzt geladen Daten. Auf diese Weise können Sie die Stundenplaninformationen auch im Offline-Modus nutzen.
+Sollten Sie keine Internetverbindung haben oder der Server der Schule/Bildungsintitution inaktiv sein, so verwendet DaVinci-Mobile immer die zuletzt geladen Daten. Auf diese Weise können Sie die Stundenplaninformationen auch im Offline-Modus nutzen.
 
 !!! info "Hinweis!"
 
@@ -145,7 +145,7 @@ Zeigt den Gebäudeplan Ihrer Schule/Bildungsinstitution mit den aktuellen Raumbe
 
 ## Favoriten
 
-DAVINCI MOBILE erlaubt das Anlegen einer Favoritenliste, in der Sie wichtige Pläne (Lehrer-, Klassen- und/oder Raumpläne) zusammenfassen können. Standardmäßig ist die Favoritenliste leer und wird damit erst gar nicht angezeigt. 
+DaVinci Mobile erlaubt das Anlegen einer Favoritenliste, in der Sie wichtige Pläne (Lehrer-, Klassen- und/oder Raumpläne) zusammenfassen können. Standardmäßig ist die Favoritenliste leer und wird damit erst gar nicht angezeigt. 
 
 ![Favoritenmenü](/assets/images/app-favorites-2.png)
 
@@ -179,4 +179,4 @@ Möchten Sie einen Eintrag aus der Favoritenliste löschen, gehen Sie wie folgt 
 
 ![Info Icon](/assets/images/appiconinfo.svg)
 
-Hier finden Sie zur diverse Informationen zu DAVINCI-MOBILE. Unter anderem werden hier das Datum der letzten Aktualisierung und das Versionsdatum angezeigt.
+Hier finden Sie zur diverse Informationen zu DaVinci-Mobile. Unter anderem werden hier das Datum der letzten Aktualisierung und das Versionsdatum angezeigt.

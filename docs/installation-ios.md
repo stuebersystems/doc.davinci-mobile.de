@@ -1,6 +1,6 @@
 # Installation unter iOS
 
-Um die kostenlose App DAVINCI-MOBILE unter iOS zu installieren, müssen Sie auf Ihrem iPhone oder iPad den `Apple Store` starten. 
+Um die kostenlose App DaVinci-Mobile unter iOS zu installieren, müssen Sie auf Ihrem iPhone oder iPad den `Apple Store` starten. 
 
 !!! warning "Wichtig!"
 
@@ -8,15 +8,15 @@ Um die kostenlose App DAVINCI-MOBILE unter iOS zu installieren, müssen Sie auf 
 
 ![App Store](/assets/images/appapplestore1.png)
 
-Suchen Sie im Apple Store nach der App `DAVINCI-MOBILE`, indem Sie auf das Suchen-Symbol klicken und das Stichwort `DAVINCI MOBILE` eingeben.
+Suchen Sie im Apple Store nach der App `DaVinci-Mobile`, indem Sie auf das Suchen-Symbol klicken und das Stichwort `DaVinci Mobile` eingeben.
 
-![DAVINCI-MOBILE im App Store suchen](/assets/images/appapplestore3.png)
+![DaVinci-Mobile im App Store suchen](/assets/images/appapplestore3.png)
 
-Wählen Sie die gefundene App `DAVINCI-MOBILE` aus, um in die Details zu gelangen. Klicken Sie dort auf die Schaltfläche `Laden` und dann auf `Installieren`. Nachdem Sie sich im App Store authentifiziert haben, wird die App installiert.
+Wählen Sie die gefundene App `DaVinci-Mobile` aus, um in die Details zu gelangen. Klicken Sie dort auf die Schaltfläche `Laden` und dann auf `Installieren`. Nachdem Sie sich im App Store authentifiziert haben, wird die App installiert.
 
-![DAVINCI-MOBILE im App Store installieren](/assets/images/appapplestore2.png)
+![DaVinci-Mobile im App Store installieren](/assets/images/appapplestore2.png)
 
-Nach der Installation finden Sie die App im Programmenü unter `DAVINCI`. 
+Nach der Installation finden Sie die App im Programmenü unter `DaVinci`. 
 
-![DAVINCI im Programmenü](/assets/images/appappledesktop.png)
+![DaVinci im Programmenü](/assets/images/appappledesktop.png)
 

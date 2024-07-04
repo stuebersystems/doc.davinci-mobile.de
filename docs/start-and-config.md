@@ -2,9 +2,9 @@
 
 ## Starten
 
-Um DAVINCI-MOBILE zu starten, müssen Sie das Icon `DAVINCI` auswählen.
+Um DaVinci-Mobile zu starten, müssen Sie das Icon `DaVinci` auswählen.
 
-![DAVINCI MOBILE Icon](/assets/images/appicon.png)
+![DaVinci Mobile Icon](/assets/images/appicon.png)
 
 ### Einführungstour
 
@@ -12,7 +12,7 @@ Beim ersten Aufruf wechselt die App in eine Einführungstour
 
 ![Einführungstour](/assets/images/appappletour.png)
  
-Diese Tour zeigt Ihnen mit einigen Slides die wichtigsten Schaltflächen von DAVINCI-MOBILE. Durch Wischen nach Links gelangen Sie zum jeweils nächsten Slide. Durch Klicken auf den Text `Tour beenden` beenden Sie die Einführungstour. Die Einführungstour können Sie jederzeit erneut starten, wenn Sie 
+Diese Tour zeigt Ihnen mit einigen Slides die wichtigsten Schaltflächen von DaVinci-Mobile. Durch Wischen nach Links gelangen Sie zum jeweils nächsten Slide. Durch Klicken auf den Text `Tour beenden` beenden Sie die Einführungstour. Die Einführungstour können Sie jederzeit erneut starten, wenn Sie 
 
 * auf dem Smartphone die Schaltflächen <img src="/assets/images/appiconmenu.svg" alt="Menü Icon" height="24" width="24">, anschließend <img src="/assets/images/appiconinfo.svg" alt="Info Icon" height="24" width="24"> und dann <img src="/assets/images/appiconintro.svg" alt="Intro Icon" height="24" width="24"> wählen bzw.
 
@@ -20,11 +20,11 @@ Diese Tour zeigt Ihnen mit einigen Slides die wichtigsten Schaltflächen von DAV
 
 ### Demomodus
 
-Wenn Sie die App erstmalig starten, so ist diese mit dem Demoserver von STÜBER SYSTEMS verbunden. Auf diese Weise können Sie die [grundsätzliche Funktionsweise von DAVINCI-MOBILE kennenlernen](usage.md). Wie Sie den Demomodus  verlassen können, um sich mit Ihrer Schule/Bildungsinstitution zu verbinden, erfahren Sie im nachfolgenden Abschnitt.
+Wenn Sie die App erstmalig starten, so ist diese mit dem Demoserver von STÜBER SYSTEMS verbunden. Auf diese Weise können Sie die [grundsätzliche Funktionsweise von DaVinci-Mobile kennenlernen](usage.md). Wie Sie den Demomodus  verlassen können, um sich mit Ihrer Schule/Bildungsinstitution zu verbinden, erfahren Sie im nachfolgenden Abschnitt.
 
 ## Einstellen
 
-Über die Einstellungen können Sie festlegen, mit welchem DAVINCI-SERVER die App DAVINCI-MOBILE verbunden ist. 
+Über die Einstellungen können Sie festlegen, mit welchem DaVinci-SERVER die App DaVinci-Mobile verbunden ist. 
 
 * Auf Smartphones wechseln Sie in die Einstellungen über die Schaltfläche <img src="/assets/images/appiconmenu.svg" alt="Menü Icon" height="24" width="24"> links oben und dann <img src="/assets/images/appiconsettings.svg" alt="Setting Icon" height="24" width="24">.
 
@@ -38,7 +38,7 @@ Hier müssen Sie die Zugangdaten Ihrer Schule/Bildungsinstitution eintragen. Daz
  
 2. dann Ihre Zugangsdaten einfügen unter
 
-    * DAVINCI SERVER (z.B. `davinci.meineSchule.de` )
+    * DaVinci SERVER (z.B. `davinci.meineSchule.de` )
     * Benutzername
     * Kennwort
 
@@ -54,7 +54,7 @@ Wenn Sie nach der Angabe der Daten die Schaltfläche `Zurück` wählen, werden a
 
 ### Mehrere Kennungen
 
-DAVINCI-MOBILE ist in der Lage mehrere Benutzernamen in den Einstellungen zu verwenden. Wenn Sie z.B. als Eltern mehr als ein Kind oder als Ausbilder mehr als einen Auszubildenden in der Schule/Bildungsinstitution haben, so können Sie die Benutzernamen bzw. Kennwörter durch Komma konkateniert eintragen. 
+DaVinci-Mobile ist in der Lage mehrere Benutzernamen in den Einstellungen zu verwenden. Wenn Sie z.B. als Eltern mehr als ein Kind oder als Ausbilder mehr als einen Auszubildenden in der Schule/Bildungsinstitution haben, so können Sie die Benutzernamen bzw. Kennwörter durch Komma konkateniert eintragen. 
 
 #### Beispiel
 

@@ -1,6 +1,6 @@
-# DAVINCI MOBILE Anleitung
+# DaVinci Mobile Anleitung
 
-Dies ist die deutsche Dokumentation zu [DAVINCI MOBILE](https://davinci.stueber.de/davinci-mobile.php). Die Dokumentation ist Open Source und wir haben sie mit [MkDocs](https://www.mkdocs.org) und [Material for MkDocs](https://squidfunk.github.io/mkdocs-material) realisiert.
+Dies ist die deutsche Dokumentation zu [DaVinci Mobile](https://davinci.stueber.de/davinci-mobile.php). Die Dokumentation ist Open Source und wir haben sie mit [MkDocs](https://www.mkdocs.org) und [Material for MkDocs](https://squidfunk.github.io/mkdocs-material) realisiert.
 
 ## MkDocs unter Windows installieren
 
